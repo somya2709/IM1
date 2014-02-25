@@ -1,0 +1,254 @@
+﻿$axure.loadCurrentPage({
+  "url":"forgot_password.html",
+  "generationDate":new Date(1393316596444.83),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"8ad3fb33581a4dc9acae2c06c91a086f",
+    "type":"Axure:Page",
+    "name":"Forgot_Password",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"ae9959243ebc41f98fec54a3ab018cf6",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":2048,
+              "height":1536}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d0b92643dde545cfa0679e227a6c0b19",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":2048,
+                  "height":1536}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/forgot_password/u0.jpg"}},
+{
+          "id":"6cfbc9bb6ecf4d9bb1d53470be825c52",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":1191,
+              "y":764},
+            "size":{
+              "width":194,
+              "height":96}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Password_Reset in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"password_reset.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"22dd3345d0c44d018b1c0266af760c1d",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":600,
+              "height":1540}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Index in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"index.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"49e6c8e154c44a3abcab2a9d0ab9ee19",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":1450,
+              "y":0},
+            "size":{
+              "width":598,
+              "height":1540}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Index in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"index.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"618e667acd23405d9e2327df2158b5e4",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":600,
+              "y":0},
+            "size":{
+              "width":850,
+              "height":480}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Index in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"index.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"adb05fd60caf40d0b6c0cd04c3cc54c6",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":600,
+              "y":930},
+            "size":{
+              "width":850,
+              "height":610}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Index in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"index.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"c44af624d5df4507b297ae68c2417b52",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":1380,
+              "y":490},
+            "size":{
+              "width":60,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Index in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"index.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "ae9959243ebc41f98fec54a3ab018cf6":{
+      "scriptId":"u0"},
+    "d0b92643dde545cfa0679e227a6c0b19":{
+      "scriptId":"u1"},
+    "6cfbc9bb6ecf4d9bb1d53470be825c52":{
+      "scriptId":"u2"},
+    "22dd3345d0c44d018b1c0266af760c1d":{
+      "scriptId":"u3"},
+    "49e6c8e154c44a3abcab2a9d0ab9ee19":{
+      "scriptId":"u4"},
+    "618e667acd23405d9e2327df2158b5e4":{
+      "scriptId":"u5"},
+    "adb05fd60caf40d0b6c0cd04c3cc54c6":{
+      "scriptId":"u6"},
+    "c44af624d5df4507b297ae68c2417b52":{
+      "scriptId":"u7"}}});

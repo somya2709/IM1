@@ -1,0 +1,400 @@
+﻿$axure.loadCurrentPage({
+  "url":"microsoft_event.html",
+  "generationDate":new Date(1393316599994.61),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"16ebf57eb5af4dc0b0d1491461ef509f",
+    "type":"Axure:Page",
+    "name":"Microsoft_Event",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"9fa14f7c4a434502aebd9ca746312d02",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":2048,
+              "height":1536}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"54db755aba54437cbf09d61ae48d8634",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":2048,
+                  "height":1536}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/microsoft_event/u0.jpg"}},
+{
+          "id":"f6c59d091fbf47ae88dd804e64eb6e91",
+          "label":"",
+          "type":"referenceDiagramObject",
+          "styleType":"referenceDiagramObject",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":258.000030517578}},
+          "adaptiveStyles":{
+},
+          "masterId":"2acff50ca7a34c7d905c99d985f2cd04"},
+{
+          "id":"b1df262afb1a472da9a2262d66365042",
+          "label":"",
+          "type":"referenceDiagramObject",
+          "styleType":"referenceDiagramObject",
+          "visible":true,
+          "style":{
+},
+          "adaptiveStyles":{
+},
+          "masterId":"2517d6f6d09b4fb396754ad535e8f63d"}]}},
+  "masters":{
+    "2acff50ca7a34c7d905c99d985f2cd04":{
+      "packageId":"2acff50ca7a34c7d905c99d985f2cd04",
+      "type":"Axure:Master",
+      "name":"Side_Nav_2ndScroll",
+      "notes":{
+},
+      "style":{
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "pageAlignment":"near",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "image":null,
+        "imageHorizontalAlignment":"near",
+        "imageVerticalAlignment":"near",
+        "imageRepeat":"auto",
+        "favicon":null,
+        "sketchFactor":"0",
+        "colorStyle":"appliedColor",
+        "fontName":"Applied Font",
+        "borderWidth":"0"},
+      "adaptiveStyles":{
+},
+      "interactionMap":{
+},
+      "diagram":{
+        "objects":[{
+            "id":"e969c15421de45369826c448f0edd9c4",
+            "label":"",
+            "type":"imageMapRegion",
+            "styleType":"imageMapRegion",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":2,
+                "y":198},
+              "size":{
+                "width":637,
+                "height":360}},
+            "adaptiveStyles":{
+},
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"Open Pfizer_Event in Current Window",
+                        "target":{
+                          "targetType":"page",
+                          "url":"pfizer_event.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true},
+{
+            "id":"e920914ef11a4136b9b35686e29c6d54",
+            "label":"",
+            "type":"imageMapRegion",
+            "styleType":"imageMapRegion",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":0,
+                "y":558},
+              "size":{
+                "width":637,
+                "height":360}},
+            "adaptiveStyles":{
+},
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"Open Apple_Event in Current Window",
+                        "target":{
+                          "targetType":"page",
+                          "url":"apple_event.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true},
+{
+            "id":"90d5e9f0e15b46859eea86abe0b9066d",
+            "label":"",
+            "type":"imageMapRegion",
+            "styleType":"imageMapRegion",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":3,
+                "y":918},
+              "size":{
+                "width":637,
+                "height":360}},
+            "adaptiveStyles":{
+},
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"Open Microsoft_Event in Current Window",
+                        "target":{
+                          "targetType":"page",
+                          "url":"microsoft_event.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true},
+{
+            "id":"9a8948b2b20540538d2e4f71a6445042",
+            "label":"",
+            "type":"imageMapRegion",
+            "styleType":"imageMapRegion",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":2,
+                "y":0},
+              "size":{
+                "width":637,
+                "height":198}},
+            "adaptiveStyles":{
+},
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"Open Google_Event in Current Window",
+                        "target":{
+                          "targetType":"page",
+                          "url":"google_event.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true}]}},
+    "2517d6f6d09b4fb396754ad535e8f63d":{
+      "packageId":"2517d6f6d09b4fb396754ad535e8f63d",
+      "type":"Axure:Master",
+      "name":"Primary_Nav ",
+      "notes":{
+},
+      "style":{
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "pageAlignment":"near",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "image":null,
+        "imageHorizontalAlignment":"near",
+        "imageVerticalAlignment":"near",
+        "imageRepeat":"auto",
+        "favicon":null,
+        "sketchFactor":"0",
+        "colorStyle":"appliedColor",
+        "fontName":"Applied Font",
+        "borderWidth":"0"},
+      "adaptiveStyles":{
+},
+      "interactionMap":{
+},
+      "diagram":{
+        "objects":[{
+            "id":"e0b218cd3d8b460a86acec18a62c2e8d",
+            "label":"",
+            "type":"imageMapRegion",
+            "styleType":"imageMapRegion",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":0,
+                "y":127},
+              "size":{
+                "width":194,
+                "height":131}},
+            "adaptiveStyles":{
+},
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"Open Calendar in Current Window",
+                        "target":{
+                          "targetType":"page",
+                          "url":"calendar.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true},
+{
+            "id":"a49d63a3b91c4a1fa6e28fcb27dd4998",
+            "label":"",
+            "type":"imageMapRegion",
+            "styleType":"imageMapRegion",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":194,
+                "y":127},
+              "size":{
+                "width":292,
+                "height":131}},
+            "adaptiveStyles":{
+},
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"Open LandingPage_time_dropdown in Current Window",
+                        "target":{
+                          "targetType":"page",
+                          "url":"landingpage_time_dropdown.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true},
+{
+            "id":"7b1b3704fe144317a4f437dbe874cf12",
+            "label":"",
+            "type":"imageMapRegion",
+            "styleType":"imageMapRegion",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":486,
+                "y":127},
+              "size":{
+                "width":154,
+                "height":131}},
+            "adaptiveStyles":{
+},
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"Open Filter in Current Window",
+                        "target":{
+                          "targetType":"page",
+                          "url":"filter.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true},
+{
+            "id":"2a1240629a7a4b6988e1687cb5ad0e39",
+            "label":"",
+            "type":"imageMapRegion",
+            "styleType":"imageMapRegion",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":29,
+                "y":45},
+              "size":{
+                "width":136,
+                "height":82}},
+            "adaptiveStyles":{
+},
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"Open Menu in Current Window",
+                        "target":{
+                          "targetType":"page",
+                          "url":"menu.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true}]}}},
+  "objectPaths":{
+    "9fa14f7c4a434502aebd9ca746312d02":{
+      "scriptId":"u0"},
+    "54db755aba54437cbf09d61ae48d8634":{
+      "scriptId":"u1"},
+    "f6c59d091fbf47ae88dd804e64eb6e91":{
+      "scriptId":"u2",
+      "e969c15421de45369826c448f0edd9c4":{
+        "scriptId":"u3"},
+      "e920914ef11a4136b9b35686e29c6d54":{
+        "scriptId":"u4"},
+      "90d5e9f0e15b46859eea86abe0b9066d":{
+        "scriptId":"u5"},
+      "9a8948b2b20540538d2e4f71a6445042":{
+        "scriptId":"u6"}},
+    "b1df262afb1a472da9a2262d66365042":{
+      "scriptId":"u7",
+      "e0b218cd3d8b460a86acec18a62c2e8d":{
+        "scriptId":"u8"},
+      "a49d63a3b91c4a1fa6e28fcb27dd4998":{
+        "scriptId":"u9"},
+      "7b1b3704fe144317a4f437dbe874cf12":{
+        "scriptId":"u10"},
+      "2a1240629a7a4b6988e1687cb5ad0e39":{
+        "scriptId":"u11"}}}});

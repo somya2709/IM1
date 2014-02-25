@@ -1,0 +1,286 @@
+﻿$axure.loadCurrentPage({
+  "url":"cancel_instruction.html",
+  "generationDate":new Date(1393316598844.35),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"52fdc8a30fdd4333a422b59ebe26d407",
+    "type":"Axure:Page",
+    "name":"Cancel_Instruction",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"8131400867294456a053ab9049d34195",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":2048,
+              "height":1536}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f67b88fcc8bc4bffaeb54a0009ec8b46",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":2048,
+                  "height":1536}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/cancel_instruction/u0.jpg"}},
+{
+          "id":"9b539f37ade84c60b3e5e985dcdb83a2",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":1450,
+              "y":0},
+            "size":{
+              "width":598,
+              "height":1536}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Instructed_Status in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"instructed_status.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"bd59b805bb9846be8066c05ba52b2b7a",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":598,
+              "height":1536}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Instructed_Status in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"instructed_status.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"d8d522d086a9447687c2f113986afe24",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":598,
+              "y":0},
+            "size":{
+              "width":852,
+              "height":270}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Instructed_Status in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"instructed_status.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"1b467acecbe14e799d6bd5fcc6859a1c",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":598,
+              "y":1180},
+            "size":{
+              "width":852,
+              "height":356}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Instructed_Status in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"instructed_status.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"e0ef713f520d4186bdc60764eccda5c9",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":1380,
+              "y":280},
+            "size":{
+              "width":60,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Instructed_Status in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"instructed_status.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"349fe9c4a06c46f98633fb9cf5480848",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":1140,
+              "y":1010},
+            "size":{
+              "width":250,
+              "height":120}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Instructed_Status in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"instructed_status.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"10b4acfa277e4397a1eae91d70c4b444",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":980,
+              "y":1010},
+            "size":{
+              "width":150,
+              "height":120}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Instructed_Status in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"instructed_status.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "8131400867294456a053ab9049d34195":{
+      "scriptId":"u0"},
+    "f67b88fcc8bc4bffaeb54a0009ec8b46":{
+      "scriptId":"u1"},
+    "9b539f37ade84c60b3e5e985dcdb83a2":{
+      "scriptId":"u2"},
+    "bd59b805bb9846be8066c05ba52b2b7a":{
+      "scriptId":"u3"},
+    "d8d522d086a9447687c2f113986afe24":{
+      "scriptId":"u4"},
+    "1b467acecbe14e799d6bd5fcc6859a1c":{
+      "scriptId":"u5"},
+    "e0ef713f520d4186bdc60764eccda5c9":{
+      "scriptId":"u6"},
+    "349fe9c4a06c46f98633fb9cf5480848":{
+      "scriptId":"u7"},
+    "10b4acfa277e4397a1eae91d70c4b444":{
+      "scriptId":"u8"}}});

@@ -1,0 +1,222 @@
+﻿$axure.loadCurrentPage({
+  "url":"password_reset.html",
+  "generationDate":new Date(1393316596633),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"aab36ea8191945178eaf7940cb594bfc",
+    "type":"Axure:Page",
+    "name":"Password_Reset",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"597203111215449a830118be063051f4",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":2048,
+              "height":1536}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"419ff6c4a88f4f079658e46d5088ab86",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":2048,
+                  "height":1536}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/password_reset/u0.jpg"}},
+{
+          "id":"13e8a6a2346844c2928410139775e094",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":600,
+              "height":1540}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Index in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"index.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"22d1edaf69de486d96bbd4aa398833a9",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":1450,
+              "y":0},
+            "size":{
+              "width":598,
+              "height":1540}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Index in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"index.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"6ecfbeee2bc4415893a72b2958c781bd",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":600,
+              "y":0},
+            "size":{
+              "width":850,
+              "height":520}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Index in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"index.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"000de4632463495c8bc04c49c348e6eb",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":600,
+              "y":820},
+            "size":{
+              "width":850,
+              "height":720}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Index in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"index.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"7d6295c2f442489289ba1a508e9b65c0",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":1380,
+              "y":530},
+            "size":{
+              "width":60,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Index in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"index.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "597203111215449a830118be063051f4":{
+      "scriptId":"u0"},
+    "419ff6c4a88f4f079658e46d5088ab86":{
+      "scriptId":"u1"},
+    "13e8a6a2346844c2928410139775e094":{
+      "scriptId":"u2"},
+    "22d1edaf69de486d96bbd4aa398833a9":{
+      "scriptId":"u3"},
+    "6ecfbeee2bc4415893a72b2958c781bd":{
+      "scriptId":"u4"},
+    "000de4632463495c8bc04c49c348e6eb":{
+      "scriptId":"u5"},
+    "7d6295c2f442489289ba1a508e9b65c0":{
+      "scriptId":"u6"}}});

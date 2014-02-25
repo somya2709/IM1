@@ -1,0 +1,94 @@
+﻿$axure.loadCurrentPage({
+  "url":"splash_brand.html",
+  "generationDate":new Date(1393316597004.65),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"b7bb26f2ea2f4c90ac53573c9cded3cf",
+    "type":"Axure:Page",
+    "name":"Splash_Brand",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"88b5c87f91fd4839a9ddfbf118253d63",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":2048,
+              "height":1536}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"587bca6fd8e448d5a386f7a574011bcb",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":2048,
+                  "height":1536}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/splash_brand/u0.jpg"}},
+{
+          "id":"ec4141976a304b2b8cca6ca255b3b450",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":2048,
+              "height":1536}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Exxon_LandingPage in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"exxon_landingpage.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "88b5c87f91fd4839a9ddfbf118253d63":{
+      "scriptId":"u0"},
+    "587bca6fd8e448d5a386f7a574011bcb":{
+      "scriptId":"u1"},
+    "ec4141976a304b2b8cca6ca255b3b450":{
+      "scriptId":"u2"}}});

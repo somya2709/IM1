@@ -1,0 +1,97 @@
+﻿$axure.loadCurrentPage({
+  "url":"settings.html",
+  "generationDate":new Date(1393316601736.71),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"cc146f1fa5de44ca98800616ef06c267",
+    "type":"Axure:Page",
+    "name":"Settings",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"987a06bb59bd430d8c33e44fb375cb2e",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":2048,
+              "height":1536}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0ebd9718e6b7438a9fa3aa7317793a3c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":2048,
+                  "height":1536}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/settings/u0.jpg"}},
+{
+          "id":"aa9544dab0be4d919fb891bb6d1e92d7",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":29,
+              "y":45},
+            "size":{
+              "width":136,
+              "height":82}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Menu in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"menu.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "987a06bb59bd430d8c33e44fb375cb2e":{
+      "scriptId":"u0"},
+    "0ebd9718e6b7438a9fa3aa7317793a3c":{
+      "scriptId":"u1"},
+    "aa9544dab0be4d919fb891bb6d1e92d7":{
+      "scriptId":"u2"}}});
